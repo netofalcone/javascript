@@ -2,7 +2,7 @@
 /* comentário bloco*/
 
 function adicionarIngrediente(){
-	var ing = document.getElementById("ingrediente").value;
+	var ing = document.getElementById("Ingrediente").value;
 
 	var listahtml = document.getElementById("lista").innerHTML;
 
